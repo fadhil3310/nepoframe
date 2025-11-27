@@ -8,3 +8,4 @@ edition = "2021"
 [dependencies]
 winit = "0.30.0"
 softbuffer = "0.4.3"
+slotmap = "1.0.7"

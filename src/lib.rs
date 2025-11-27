@@ -19,4 +19,4 @@ impl<P: PlatformBase> NepoframeInstance<P> {
 
 pub mod renderer;
 pub mod platforms;
-pub mod views;
+pub mod view;
